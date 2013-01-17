@@ -15,6 +15,7 @@ I made this as my first MCU project just before my army times on 2005.
 #### rgb ####
 
 Also some old video at: https://www.youtube.com/watch?v=nEGV7qQRLQc
+and: https://www.youtube.com/watch?v=zZTWdrwuiCE
 
 Just a simple RGB mood lamp. Uses Atmel's ATMega8 MCU. Built maybe on 2006.
 
